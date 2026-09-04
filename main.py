@@ -1,21 +1,21 @@
 #SABULAO, NOEMAYR
 studname = "Luna Isabel Noemayr"
 studage = 15 #integer
-studheight1 = 168 #integer
-countries_visit = ["country, countryy, countryyy"]
-student_type = False #wwww
-stud_pref{
-    "color": "",
-    "car brand": "",
+studheight1 = 176.0 #integer
+countries_visit = ["Austria, America, Thailand"] 
+student_type = False #true if new student, otherwise if not
+stud_pref = {
+    "color": "Cream",
+    "car brand": "Subaru",
     "shoe size": 9,
-    "bff": ""
+    "bff": "N/A"
 }
 stud_fruits = {
-    "fruit1",
-    "ffruit2",
-    "fruit3",
-    "fruit4",
-    "fruit5",
+    "peace",
+    "mango",
+    "lychee",
+    "strawberry",
+    "cherry",
 }
 days_week = {
     "Monday",
